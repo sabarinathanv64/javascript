@@ -1,5 +1,5 @@
 try{
-    console.log("MULTIPLICATION TABLE");
+    console.log("REVERSE");
     var arr=[23,64,11,54,12];
     var s=arr.reverse();
     console.log(s);
